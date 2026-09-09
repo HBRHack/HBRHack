@@ -63,8 +63,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HBRHack&show_icons=true&theme=dark&hide_border=true&bg_color=0E1420&title_color=E8B94A&icon_color=57D6C4" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HBRHack&theme=dark&hide_border=true&background=0E1420&ring=E8B94A&fire=E8B94A" height="165"/>
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=HBRHack&show_icons=true&theme=dark&hide_border=true&bg_color=0E1420&title_color=E8B94A&icon_color=57D6C4" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=HBRHack&theme=dark&hide_border=true&background=0E1420&ring=E8B94A&fire=E8B94A" height="165"/>
 </div>
 
 ---
