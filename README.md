@@ -17,7 +17,8 @@
   <p>Ngerancang solusi & arsitektur sistem dulu, baru ngoding.<br>
   Fokus di logic yang kedap air, AI Agent yang terkontrol, dan boundary yang jelas.</p>
 
-  <img src="avatar.png" />
+ <img src="avatar.png" width="100" height="100" />
+
 </div>
 
 ---
