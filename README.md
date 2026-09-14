@@ -57,6 +57,7 @@
 - 🖥️ **Optik HBR** — aplikasi desktop offline pembukuan income (Qt 5.15 + C++17 + SQLite)
 - 🤖 Ngerapihin workflow AI Agent (OpenCode + MCP skills) biar konsisten di lintas mesin
 - 📐 Nyusun SPEC.md sebagai kontrak teknis sebelum eksekusi tim dev
+- Mempunyai Website tempat jualan aplikasi dan jasa pembuatan aplikasi
 
 ---
 
