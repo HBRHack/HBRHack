@@ -4,7 +4,7 @@
   <h1>🕶️ ANDRE</h1>
   <p><strong>Desktop & Backend Engineer → System Analyst</strong></p>
 
-  <a href="linkedin.com/in/arya-fattahu-21372a294/" target="_blank">
+  <a href="https://linkedin.com/in/arya-fattahu-21372a294/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/HBRHack" target="_blank">
