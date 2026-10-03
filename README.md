@@ -65,10 +65,11 @@ Fokus di logic yang kedap air, AI Agent yang terkontrol, dan boundary yang jelas
 
 ### 🚀 Currently Portfolio
 
-- 🖥️ **Optik HBR** — aplikasi desktop offline pembukuan income (Qt 5.15 + C++17 + SQLite)
-- 🤖 Ngerapihin workflow AI Agent (OpenCode + MCP skills) biar konsisten di lintas mesin
-- 📐 Nyusun SPEC.md sebagai kontrak teknis sebelum eksekusi tim dev
-- Mempunyai Website tempat jualan aplikasi dan jasa pembuatan aplikasi
+- 🖥️ **Optik HBR** — aplikasi desktop offline untuk pembukuan pemasukan (income), dibangun dengan Qt 5.15 · C++17 · SQLite
+- 🏗️ **System Design** — rancangan sistem top-up / transaksi finansial: antrean Redis, idempotency, dan penanganan race condition, dengan REST API (GET/POST/PUT/DELETE) di atas fondasi database yang solid
+- 🤖 **AI Agent Workflow** — OpenCode + MCP skills yang dirapikan agar konsisten di berbagai mesin, dilengkapi security review berlapis sebelum deploy
+- 📐 **SPEC.md** — kontrak teknis yang disusun sebelum eksekusi tim dev, supaya alur bisnis dan scope tetap terkunci
+- 🌐 **Website Penjualan** — etalase aplikasi dan jasa pembuatan aplikasi custom
 
 ---
 
