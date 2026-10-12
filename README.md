@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🕶️ ANDRE</h1>
+<h1>🕶️ ANDRE Aka Arya</h1>
 <p><strong>Desktop & Backend Engineer → System Analyst</strong></p>
 
 <a href="https://linkedin.com/in/arya-fattahu-21372a294/" target="_blank">
